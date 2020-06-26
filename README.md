@@ -1,2 +1,2 @@
-# fake-postfix-docker
-fake postfix mail docker for test
+# test-postfix-docker
+postfix mail docker for test
